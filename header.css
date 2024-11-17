@@ -1,0 +1,117 @@
+.header{
+    display: flex;
+    background-color: white;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 70px;
+    flex: 1;
+    justify-content: space-between;
+    
+}
+/* .header-left{
+   
+    display: flex;
+    background-color: lawngreen;
+    height: 75px;
+    position: fixed;
+    align-items: center;
+    left: 70px;
+} */
+/* .header-middle{
+    display: flex;
+    background-color: lightcoral;
+    height: 100%;
+    align-items: center;
+    width: 300px;
+    margin-right: 10px;
+} */
+.header-right{
+    width: 500px;
+    display: flex;
+    background-color: white;
+    height: 70px;
+    align-items: center;
+    position: fixed;
+    right: 60px;
+    left: 730px;
+
+    
+}
+
+
+.header-left{
+    display: flex;
+    position: fixed;
+    left: 45px;
+    width: 150px;
+    background-color: white;
+    height: 70px;
+    align-items: center;
+}
+.flipkartlogo{
+    width: 130px;
+    display: flex;
+    position: fixed;
+    left: 50px;
+} 
+.header-middle{
+    display: flex;
+    position: fixed;
+    height: 70px;
+    align-items: center;
+    left: 250px;
+}
+.search{
+    display: flex;
+    position: fixed;
+    width: 440px;
+    height: 38px;
+    font-size: 17px;
+    border: none;
+    background-color: rgb(230, 248, 255);
+    border-radius: 5px;
+ }
+ .search-image{
+    width: 21px;
+    background-color: rgb(230, 248, 255);
+    border-radius: 5px;
+    display: flex;
+    position: fixed;
+    left: 212px;
+    padding: 10px 15px 10px 10px;
+ }
+ .login{
+    width: 20px;
+ }
+ .cart{
+    width: 20px;
+    margin-left: 50px;
+ }
+ .gift{
+    width:20px;
+    margin-left: 70px;
+ }
+ .more{
+    width: 20px;
+    margin-left: 50px;
+ }
+ .login-text{
+    display: flex;
+    
+   margin-left: 10px;
+    font-size: 16px;
+    
+ }
+ .cart-text{
+    display: flex;
+    
+    margin-left: 10px;
+    font-size: 16px;
+ }
+ .become-text{
+    display: flex;
+    font-size: 16px;
+    margin-left: 10px;
+ }

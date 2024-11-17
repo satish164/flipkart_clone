@@ -1,0 +1,50 @@
+.third-position{
+    width: 100%;
+    background-color: white;
+    margin-top: 15px;
+    height: 340px;
+    
+}
+.best{
+    font-size: 25px;
+    padding: 20px 0px 15px 20px;
+    font-weight: 500;
+}
+.wireless{
+    width: 150px;
+    
+}
+.left{
+    margin-left: 10px;
+    display: flex;
+    
+}
+.left-one{
+ border: solid;
+ background-color: rgb(250, 250, 250);
+ border-color: rgb(204, 204, 204);
+ border-radius: 5px;
+ width: 200px;
+ margin-right: 15px;
+ height: 250px;
+ 
+ 
+}
+.image-wireless{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.best-headphones{
+    color: gray;
+    margin-left: 10px;
+    font-size: 15px;
+    justify-content: center;
+}
+.grab{
+    display: flex;
+    justify-content: center;
+    margin: 5px 0px 5px 0px;
+    font-weight: 500;
+}

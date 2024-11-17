@@ -1,0 +1,39 @@
+.below-header{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-between;
+    flex-direction: column;
+        
+}
+.second-header-image{
+    width: 70px;
+    margin-top: 20px;
+    
+    margin-left: 60px;
+    
+}
+.first{
+    display: flex;
+    
+}
+.grocery{
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-top: 10px;
+   
+}
+.name-image{
+    margin-left: 75px;
+}
+.middle-image{
+    display: flex;
+    margin-top: 15px;
+   
+}
+.image-below{
+    width: 100%;
+}
